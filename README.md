@@ -15,4 +15,4 @@ To cite the Finnish package use:
   year={2022}
 }
 ```
-To cite that original check out [chapterize on PyPi](https://pypi.org/project/chapterize/) and [Jonathan Reeves' GitHub page for chapterize](https://github.com/JonathanReeve/chapterize).
+To cite the original chapterize package for English check out [chapterize on PyPi](https://pypi.org/project/chapterize/) and [Jonathan Reeves' GitHub page for chapterize](https://github.com/JonathanReeve/chapterize).
